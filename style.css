@@ -1,0 +1,27 @@
+
+.bg{
+    background-image: url('assert/wallpaperflare.com_wallpaper\ \(3\).jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#myvideo{
+    z-index: -999;
+
+    position: relative;
+    
+}
+
+.zoro{
+    width: 22%;
+    height: auto;
+}
+.baji{
+    width: 22%;
+    height: auto;
+
+    }
+.para{
+    color: #eaeaea;
+    font-size: large;
+}
